@@ -15,7 +15,7 @@ Lets consider a imaginary language that accepts ```a``` and ```-``` at the begin
 only accepts one\`s and zero\`s. Also, to accept the phrase, it must terminate with either ```+``` if it was in the zero state or
 ```%``` if it was in the one state. To clarify, the language\`s automata is described in the following image:
 
-![Imaginary Language Automata](https://github.com/giovanifss/Deterministic-Finite-Automaton/blob/master/imaginary-language.png)
+![Imaginary Language Automata](https://github.com/giovanifss/Deterministic-Finite-Automaton/blob/master/extra/imaginary-language.png)
 
 The following code create and describes this automata:
 ```
